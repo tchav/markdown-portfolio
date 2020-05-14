@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# my list
+- item number one
+- my second item
+- learning GitHub
+- :notes:
